@@ -252,42 +252,6 @@
   padding: 0 10px;
 }
 
-.feedback {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 25px;
-}
-
-.feedback__group {
-  margin: 0;
-  padding: 0;
-  border: none;
-}
-
-.feedback__item {
-  width: 100%;
-  margin-bottom: 10px;
-  padding: 10px;
-  color: #2d2d2d;
-  border: 1px solid rgba(255, 255, 255, 0.8);
-  border-radius: 3px;
-  background-color: rgba(255, 255, 255, 1);
-}
-
-.feedback__item-message {
-  resize: none;
-}
-
-.feedback__item:focus {
-  border-color: rgb(22, 172, 206);
-}
-
-.feedback__item::placeholder {
-  font-weight: 300;
-  font-size: 14px;
-  line-height: 18px;
-}
-
 @media (min-width: 520px) {
   .page__greeting-title {
     font-size: 42px;
