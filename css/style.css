@@ -175,7 +175,6 @@
   width: 320px;
   margin: 0 auto;
   margin-top: -60px;
-  margin-bottom: 25px;
   padding: 0 10px;
 }
 
@@ -183,10 +182,6 @@
   margin-bottom: 25px;
   background-color: #ffffff;
   outline: 1px solid #ececec;
-}
-
-.portfolio__item:last-child {
-  margin-bottom: 0;
 }
 
 .portfolio__item-link {
