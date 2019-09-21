@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projects/tickets/static/css/main.97fd076d.chunk.css",
+    "main.js": "/projects/tickets/static/js/main.aedf20a6.chunk.js",
+    "main.js.map": "/projects/tickets/static/js/main.aedf20a6.chunk.js.map",
+    "runtime~main.js": "/projects/tickets/static/js/runtime~main.c8a5c82d.js",
+    "runtime~main.js.map": "/projects/tickets/static/js/runtime~main.c8a5c82d.js.map",
+    "static/js/2.8b628b52.chunk.js": "/projects/tickets/static/js/2.8b628b52.chunk.js",
+    "static/js/2.8b628b52.chunk.js.map": "/projects/tickets/static/js/2.8b628b52.chunk.js.map",
+    "index.html": "/projects/tickets/index.html",
+    "precache-manifest.356624464087eaa7c387530b6828cd1a.js": "/projects/tickets/precache-manifest.356624464087eaa7c387530b6828cd1a.js",
+    "service-worker.js": "/projects/tickets/service-worker.js",
+    "static/css/main.97fd076d.chunk.css.map": "/projects/tickets/static/css/main.97fd076d.chunk.css.map",
+    "static/media/logo.png": "/projects/tickets/static/media/logo.56508a63.png"
+  }
+}
